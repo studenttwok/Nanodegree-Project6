@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="digital_background">#1CA8F4</color>
+    <color name="digital_text">#FFFFFF</color>
+    <color name="digital_text_dim">#BBE5FB</color>
+    <color name="separator">#60C2F7</color>
+</resources>

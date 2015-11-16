@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">34dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">64dp</dimen>
+    <dimen name="line_spacing">20dp</dimen>
+    <dimen name="temp_spacing">16dp</dimen>
+
+
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="separator_width">2dp</dimen>
+</resources>
